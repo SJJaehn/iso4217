@@ -16,7 +16,7 @@ currency data for Go
 ## Installation
 
 ```sh
-go get github.com/JohannesJHN/iso4217
+go get github.com/SJJaehn/iso4217
 ```
 
 ## Usage
@@ -27,7 +27,7 @@ package main
 
 import (
     "fmt"
-    "github.com/JohannesJHN/iso4217"
+    "github.com/SJJaehn/iso4217"
 )
 
 func main() {
